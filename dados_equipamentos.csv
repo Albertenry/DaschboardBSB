@@ -1,0 +1,10 @@
+Mês,Cliente,Equipamento,Quantidade de Ordens de Serviço Abertas,Quantidade de Horas Usadas nas Ordens de Serviço,Quantidade de Horas Totais do Equipamento,Disponibilidade,Indisponibilidade,MTTR,MTBF
+Janeiro,Rede Uniforça,Evaporador 1C1,5.0,10.0,720.0,0.9861111111111112,0.0138888888888888,2.0,144.0
+Fevereiro ,Rede Uniforça,Evaporador 2C1,5.0,5.0,720.0,0.9930555555555556,0.0069444444444444,1.0,144.0
+Fevereiro,Rede Uniforça,Evaporador 1C1,5.0,14.0,720.0,0.9805555555555556,0.0194444444444444,2.8,144.0
+Fevereiro,Rede Uniforça,Evaporador 3C1,4.0,4.0,720.0,0.9944444444444444,0.0055555555555555,1.0,180.0
+Março,Rede Uniforça,Evaporador 1C1,3.0,3.0,720.0,0.9958333333333332,0.0041666666666666,1.0,240.0
+Abril,Rede Uniforça,Evaporador 1C1,15.0,50.0,720.0,0.9305555555555556,0.0694444444444444,3.333333333333333,48.0
+Dezembro,Rede Parceria,Evaporador 1c!,6.0,11.0,720.0,0.9847222222222224,0.0152777777777777,1.8333333333333333,120.0
+Maio,Rede Uniforça,Evaporador 2C1,3.0,7.0,720.0,0.9902777777777778,0.009722222222222188,2.3333333333333335,240.0
+
